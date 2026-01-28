@@ -37,8 +37,10 @@ Models used include **Linear Regression**, **Polynomial Regression**, and **Rand
 
 ![Area vs Price](<img width="536" height="393" alt="area vs price" src="https://github.com/user-attachments/assets/b553c735-1daf-45e1-b6b9-6cf02175881c" />
 .png)  
-![Bedrooms vs Price](screenshots/bedrooms_vs_price.png)  
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Bedrooms vs Price](<img width="536" height="393" alt="download" src="https://github.com/user-attachments/assets/a5ba7f6f-2771-4734-8295-bf170c84b5a6" />
+.png)  
+![Correlation Heatmap]
+<img width="555" height="434" alt="download (1)" src="https://github.com/user-attachments/assets/81cf79c2-14cd-4ba2-bc84-5e5afbce6167" />
 
 ---
 
