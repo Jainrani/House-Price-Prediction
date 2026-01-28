@@ -35,7 +35,8 @@ Models used include **Linear Regression**, **Polynomial Regression**, and **Rand
 **Correlation Heatmap:**  
 - Shows how features correlate with price  
 
-![Area vs Price](area_vs_price.png)  
+![Area vs Price](<img width="536" height="393" alt="area vs price" src="https://github.com/user-attachments/assets/b553c735-1daf-45e1-b6b9-6cf02175881c" />
+.png)  
 ![Bedrooms vs Price](screenshots/bedrooms_vs_price.png)  
 ![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
